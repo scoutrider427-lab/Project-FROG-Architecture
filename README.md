@@ -21,4 +21,7 @@ FROG identifies the "missing story" in federal waste.
 2. **Recursive Taint Tracking:** Mapping "Peeling Chains" across 400+ VASP bridges.
 3. **VASP-API Hook:** Real-time sterilization of illicit liquidity.
 
+[Read the full Grey Lane Logic Description here](./GREY_LANE_LOGIC.md)
+
+
 *Full IP Package available upon verbal agreement and 10-day formalization window.*

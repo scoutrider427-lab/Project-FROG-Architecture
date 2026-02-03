@@ -226,3 +226,16 @@ For details on how your personal data is handled by Companies House, please see 
 
 email from Companies house
 This message and any attachments are intended for the persons named as addressees only and may contain confidential information. In addition they may be protected by copyright. If you receive it in error, notify us, delete it and do not make use of or copy it. You must not copy, disseminate or otherwise distribute or publish this message, except for the purposes for which this message is intended, without our consent. Please note that this e-mail has been created in the knowledge that Internet e-mail is not a 100% secure communications medium. We advise that you understand and accept this lack of security when e-mailing us. For company information, guidance and how to file documents online, please visit our website www.companieshouse.gov.uk. This message has been scanned for viruses by MailControl, a service from BlackSpider Technologies. This message and any attachments are intended for the persons named as addressees only and may contain confidential information. In addition they may be protected by copyright. If you receive it in error, notify us, delete it and do not make use of or copy it. You must not copy, disseminate or otherwise distribute or publish this message, except for the purposes for which this message is intended, without our consent. Please note that this e-mail has been created in the knowledge that Internet e-mail is not a 100% secure communications medium. We advise that you understand and accept this lack of security when e-mailing us. For company information, guidance and how to file documents online, please see our website www.companieshouse.gov.uk. For more details on how your personal data is handled by Companies House, please see our privacy policy: https://www.gov.uk/government/organisations/companies-house/about/personal-information-charter
+
+The '15-Day' Sanctions Gap
+​Jan 30: Project FROG identifies active $94B sanctions evasion at Zedcex (UK 14311274).
+​The Bureaucratic Response: Companies House routes the "Urgent Objection" to a "Breaches Team" with a 15 working day turnaround (Response from 'Jayne', Companies House Contact Centre).
+​The Reality: In the 15 days it takes for a human to write a "suitable response," the capital has already cleared the off-ramp.
+​The FROG Solution: Zero-Day Interdiction. FROG blocks the VASP off-ramp the moment the "Dormant" status contradicts the "Mempool Activity." No 15-day wait. No human error.
+
+email from Companies house
+The '15-Day' Sanctions Gap
+​Jan 30: Project FROG identifies active $94B sanctions evasion at Zedcex (UK 14311274).
+​The Bureaucratic Response: Companies House routes the "Urgent Objection" to a "Breaches Team" with a 15 working day turnaround (Response from 'Jayne', Companies House Contact Centre).
+​The Reality: In the 15 days it takes for a human to write a "suitable response," the capital has already cleared the off-ramp.
+​The FROG Solution: Zero-Day Interdiction. FROG blocks the VASP off-ramp the moment the "Dormant" status contradicts the "Mempool Activity." No 15-day wait. No human error.

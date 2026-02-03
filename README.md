@@ -23,5 +23,7 @@ FROG identifies the "missing story" in federal waste.
 
 [Read the full Grey Lane Logic Description here](./GREY_LANE_LOGIC.md)
 
+Scott Thompson
+427shadowscout@proton.me
 
 *Full IP Package available upon verbal agreement and 10-day formalization window.*
